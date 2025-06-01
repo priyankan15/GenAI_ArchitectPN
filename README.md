@@ -1,4 +1,4 @@
-# GenAI_ArchitectPN
+# GenAI Architect - Azure OpenI + Langfuse
 # 📈 Market Sentiment Analyzer using LangChain + Azure OpenAI + Langfuse
 
 This project builds a real-time pipeline that:
